@@ -16,16 +16,16 @@ var officeSettings = [
      "room": "room-33",
      "officeDecorations":[
          { "type":"carpet" ,
-          "css" : { "background-color":"#cccccc", "background-image":"url(http://127.0.0.1:8080/check_green2.svg)","background-size":"150px"}
+          "css" : { "background-color":"#cccccc", "background-image":"url(https://deafgreatdane.github.io/images/check_green2.svg)","background-size":"150px"}
          },
          { "type": "furniture",
-          "css": {"background-image":"url(http://127.0.0.1:8080/foo_burned.png)",
+          "css": {"background-image":"url(https://deafgreatdane.github.io/images/couch.png)",
                   "background-size":"50px",
                   "top": 2,"width": "50px",
                   "height":"80px","left":"8px"}},
          
           { "type": "furniture",
-          "css": {"background-image":"url(http://127.0.0.1:8080/mature.png)",
+          "css": {"background-image":"url(https://deafgreatdane.github.io/images/deer.png)",
                   "background-size":"35px",
                   "top": 2,"width": "50px",
                   "height":"80px","left":"120px"}}
